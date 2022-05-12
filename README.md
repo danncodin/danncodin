@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C#, Python and JavaScript**
 
-- 📫 How to reach me **danielmarto@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/daniel marto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel marto" height="30" width="40" /></a>
