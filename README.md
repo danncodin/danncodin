@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I am Daniel Marto</h1>
-<h3 align="center">A game developer developer from Brazil</h3>
+<h3 align="center">A game developer from Brazil</h3>
 
 - 🌱 I’m currently learning **C#, Python and JavaScript**
 
