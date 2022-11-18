@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/daniel marto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel marto" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/daniel-marto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel marto" height="30" width="40" /></a>
   <a href="https://twitter.com/frappuberry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frappuberry" height="30" width="40" /></a>
       <a href="https://gamejolt.com/@frappuberry" target="blank"><img align="center" src="https://img.icons8.com/fluency/452/game-jolt.png" alt="frappuberry" height="40" width="40" /></a>
   <a href="https://frappuberry.itch.io" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-white.svg" alt="frappuberry" height="30" width="40" /></a>
