@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/16005776/46175824-49d10080-c27b-11e8-839e-1e3dfbb3a942.png" alt="gms2" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331267/yoyo-games.svg" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmarto-png&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="danielmarto-png" /></p>
 
