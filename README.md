@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I am Daniel Marto</h1>
 <h3 align="center">A game developer from Brazil</h3>
 
-- 🌱 I’m currently learning **C#, HTML and GML.**
+- 🌱 I’m currently learning **HTML, JS and NodeJs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
