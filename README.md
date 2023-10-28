@@ -11,7 +11,7 @@
   </a>-->
   <a href="https://gamejolt.com/@frappuberry" target="blank"><img align="center" src="https://img.icons8.com/fluency/452/game-jolt.png" alt="frappuberry" height="40" width="40" />
   </a>
-  <a href="https://frappuberry.itch.io" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-white.svg" alt="frappuberry" height="30" width="40" />
+  <a href="https://frappuberry.itch.io" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="frappuberry" height="30" width="40" />
   </a>
   <a href="https://www.artstation.com/frappuberry" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721680-artstation_108062.png" alt="frappuberry" height="40" width="40" />
   </a>
