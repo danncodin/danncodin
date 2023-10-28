@@ -37,13 +37,12 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmarto-png&show_icons=true&theme=dracula&locale=en" alt="danielmarto-png" />
 </p>
-## Comment
+
 <!--Github Trophys-->
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielmarto-png" alt="danielmarto-png" /></a> 
 </p>
 
-### Profiles Views
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=danielmarto-png&label=Profile%20views&color=0e75b6&style=plastic" alt="danielmarto-png" /> 
 </p>
