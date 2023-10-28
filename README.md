@@ -19,7 +19,7 @@
   </a>
 </p>
 
-### Language and Tools
+<!--Language and Tools-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> 
@@ -37,8 +37,8 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielmarto-png&show_icons=true&theme=dracula&locale=en" alt="danielmarto-png" />
 </p>
-
-### Github Trophys
+## Comment
+<!--Github Trophys-->
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielmarto-png" alt="danielmarto-png" /></a> 
 </p>
